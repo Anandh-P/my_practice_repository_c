@@ -4,12 +4,12 @@
 int main()
 {
 	int p,t;
-	float r,si,atbp;
+	float r,si,tatbp;
 	printf("Enter the values of the principle, rate, and number of years: ");
 	scanf("%d %d %f", &p, &t, &r);
 	si = (p*r*t)/100;   /*Formula for simple interest*/
-	atbp = si+p;        /*To calculate total amount to be paid*/
+	tatbp = si+p;        /*To calculate total amount to be paid*/
 	printf("You have to pay ");
-	printf("%f\n",atbp);
+	printf("%f\n",tatbp);
 	return 0;
 }

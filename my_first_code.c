@@ -5,8 +5,10 @@ int main()
 {
 	int p, t;
 	float r, si;
-	/*Formula for simple Interest*/
-	si=(p*r*t)/100;
+	p=5000;
+	r=5;
+	t=3;	
+	si=(p*r*t)/100;    /*Formula for simple Interest*/
 	printf("Calculated interest is ");
 	printf("%4.2f\n", si);
 	return 0; 

@@ -1,4 +1,5 @@
 /*Calculate simple interest*/
+/* Checking edits */
 /*Author Name: Anandhavaradhan; Date: 28/05/2025*/
 #include <stdio.h>
 int main()

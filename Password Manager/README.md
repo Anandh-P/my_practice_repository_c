@@ -17,4 +17,4 @@ The credentials are stored in encrypted format using the generated key file. The
 Run the main.py file to start the password manager application. Ensure all three files (main.py, credentials.csv, key.key) are in the same directory for proper functionality.
 
 ## For reference, use the YouTube link to my video.
-"https://youtu.be/5y0OxY-qwmQ?si=GKA2FwRIWL4bJDfK"
+https://youtu.be/5y0OxY-qwmQ?si=GKA2FwRIWL4bJDfK
